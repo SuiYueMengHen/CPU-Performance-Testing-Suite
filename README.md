@@ -17,15 +17,6 @@ This repository provides a **comprehensive CPU performance testing suite** to me
 - **Compression/Decompression performance**: Tests the CPU's ability to handle data compression and decompression.
 - **File I/O performance**: Measures CPU efficiency in reading and writing large files.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [File Cleanup](#file-cleanup)
-- [Contributions](#contributions)
-- [License](#license)
-
 ---
 
 # CPU 性能测试套件
@@ -101,12 +92,6 @@ During the file I/O performance test, a temporary file `test_file_io.tmp` will b
 We welcome contributions! Feel free to submit issues, pull requests, or suggestions to improve the project.
 
 我们欢迎任何形式的贡献！请随时提交问题、拉取请求或改进建议。
-
-## License / 许可
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-此项目采用 MIT 许可证，详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
